@@ -1,0 +1,55 @@
+These are Redfield's uBlock Origin filters.
+
+||google-analytics.com^$important
+||facebook.com^$important,third-party
+||platform.twitter.com/widgets.js$third-party
+||gravatar.com^$third-party
+||twitter.com^$important,third-party
+||linkedin.com^$important,third-party
+||newsquid.com^$important
+||chartbeat.com^$important,third-party
+||iihnordic.com^$important,third-party
+||westernizedcartelize.net^$important,third-party
+||adtech.de^$important,third-party
+||adserver.adtech.de^$important
+||cxense.com^$important,third-party
+||scorecardresearch.com^$important,third-party
+||gigya.com^$important,third-party
+||omtrdc.net^$important,third-party
+||trustpilot.com
+||skype.com
+||sprinklecontent.com
+||widgets.sprinklecontent.com
+||http://ekstrabladet.dk/template/v5-6/shared/js/build/every.page.min.js
+||doubleclick.net^$important,third-party
+||ad.doubleclick.net^$important,third-party
+||raptorsmartadvisor.com
+||blockadblock.com^$important
+||segment.com^$important
+||odendo.com^$important
+||visitormap.org^$important
+||optimizely.com^$important,third-party
+||googletagservices.com^$important,third-party
+||bluekai.com^$important,third-party
+||telemetric.dk^$important,third-party
+||adnami.io^$important,third-party
+||side6.dk^$important,third-party
+||https://connect.facebook.net/en_US/fbevents.js^$important,third-party
+||widget.outbrain.com^$important,third-party
+||adobedtm.com^$important,third-party
+||wix.com^$important
+||sleeknote.com^$important
+||consent.dk^$important
+||bytegain.com^$important
+
+! http://nyheder.tv2.dk/?portal
+nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
+
+! http://vejr.tv2.dk/
+vejr.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
+
+! http://www.dr.dk/nyheder?t=
+www.dr.dk##.general.drc-cookie-policy
+
+! https://www.dr.dk/tv/
+www.dr.dk##.cookie-info-box
