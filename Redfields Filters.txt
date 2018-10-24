@@ -1,4 +1,4 @@
-These are Redfield's uBlock Origin filters.
+(Redfield's uBlock Origin filters)
 ! Version: 1.3
 
 ||google-analytics.com^$important
