@@ -1,3 +1,4 @@
+! These are Redfield's uBlock Origin filters.
 ! Title: Redfield's uBlock Origin filters
 ! Version: 1.2
 
@@ -42,12 +43,6 @@
 ||sleeknote.com^$important
 ||consent.dk^$important
 ||bytegain.com^$important
-||gemius.pl^$important
-||facebook.com^$important
-||facebook.net^$important
-||twitter.com^$important
-||instagram.com^$important
-||adnami2.io^$important
 
 ! http://nyheder.tv2.dk/?portal
 nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
@@ -57,6 +52,3 @@ vejr.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
 
 ! http://www.dr.dk/nyheder?t=
 www.dr.dk##.general.drc-cookie-policy
-
-! https://www.dr.dk/tv/
-www.dr.dk##.cookie-info-box
