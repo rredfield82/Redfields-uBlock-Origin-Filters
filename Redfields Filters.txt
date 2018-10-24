@@ -42,6 +42,10 @@ These are Redfield's uBlock Origin filters.
 ||consent.dk^$important
 ||bytegain.com^$important
 ||gemius.pl^$important
+||facebook.com^$important
+||facebook.net^$important
+||twitter.com^$important
+||instagram.com^$important
 
 ! http://nyheder.tv2.dk/?portal
 nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
