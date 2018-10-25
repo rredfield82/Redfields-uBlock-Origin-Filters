@@ -1,5 +1,6 @@
 # Redfield's uBlock Origin Filters
 ! Title: Redfield's uBlock Origin Filters
+! Last modified:
 ! Expires: 1 days (update frequency)
 ! Url: https://raw.githubusercontent.com/rredfield82/Redfields-uBlock-Origin-Filters/master/Redfields%20Filters.txt
 ! Version: 1.4
