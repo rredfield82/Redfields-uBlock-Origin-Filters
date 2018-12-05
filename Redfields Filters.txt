@@ -60,6 +60,7 @@
 ||da-ads.com^$important
 ||youbora.com^$important
 ||runative.com^$important
+||cookiebot.com^$important
 
 ! http://nyheder.tv2.dk/?portal
 nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
