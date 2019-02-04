@@ -63,16 +63,6 @@
 ||cookiebot.com^$important
 ||quartic.pl^$important
 ||disqus.com^$important
-||google.com^$important
-||adsensecustomsearchads.com^$important
-||fonts.googleapis.com^$important
-||googleadservices.com^$important
-||googleapis.com^$important
-||googletraveladservices.com^$important
-||googleusercontent.com^$important
-||gstatic.com^$important
-||urchin.com^$important
-||ytimg.com^$important
 
 
 ! http://nyheder.tv2.dk/?portal
