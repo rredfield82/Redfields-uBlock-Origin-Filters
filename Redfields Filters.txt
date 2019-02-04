@@ -3,7 +3,7 @@
 ! Last modified:
 ! Expires: 5 days (update frequency)
 ! Url: https://raw.githubusercontent.com/rredfield82/Redfields-uBlock-Origin-Filters/master/Redfields%20Filters.txt
-! Version: 2.0
+! Version: 2.1
 
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party
