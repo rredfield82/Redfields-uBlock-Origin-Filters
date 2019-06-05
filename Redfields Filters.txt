@@ -4,7 +4,7 @@
 ! Expires: 5 days (update frequency)
 ! Url: https://raw.githubusercontent.com/rredfield82/Redfields-uBlock-Origin-Filters/master/Redfields%20Filters.txt
 ! Maintained by: R Redfield
-! Version: 2.5
+! Version: 2.6
 
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party
@@ -69,6 +69,7 @@
 ||adwords.com^$important
 ||consensu.org^$important
 ||netop.com^$important
+||sentry-cdn.com
 
 
 ! http://nyheder.tv2.dk/?portal
