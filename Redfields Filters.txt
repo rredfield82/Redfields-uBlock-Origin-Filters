@@ -69,7 +69,7 @@
 ||adwords.com^$important
 ||consensu.org^$important
 ||netop.com^$important
-||sentry-cdn.com
+||sentry-cdn.com^$important
 
 
 ! http://nyheder.tv2.dk/?portal
