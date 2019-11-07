@@ -1,6 +1,0 @@
-# Redfield's YouTube Ad Blocker List
-
-admob.com
-adsensecustomsearchads.com
-adwords.com
-adsensecustomsearchads.com
