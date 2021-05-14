@@ -1,10 +1,10 @@
 # Redfield's uBlock Origin Filters
 ! Title: Redfield's uBlock Origin Filters
-! Last modified: 11 December 2020
+! Last modified: 15 May 2021
 ! Expires: 5 days (update frequency)
 ! Url: https://raw.githubusercontent.com/rredfield82/Redfields-uBlock-Origin-Filters/master/Redfields%20Filters.txt
 ! Maintained by: R Redfield
-! Version: 2.9
+! Version: 3.0
 
 ||google-analytics.com^$important
 ||facebook.com^$important,third-party
