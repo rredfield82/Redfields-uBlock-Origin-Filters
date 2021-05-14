@@ -73,9 +73,8 @@
 ||twimg.com^$important
 ||fbcdn.net^$important
 ||fwmrm.net^$important
-
-
-
+||bing.com^$important
+||yahoo.comt^$important
 
 ! http://nyheder.tv2.dk/?portal
 nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
