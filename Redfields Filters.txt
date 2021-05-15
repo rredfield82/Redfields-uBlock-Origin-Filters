@@ -75,6 +75,7 @@
 ||fwmrm.net^$important
 ||bing.com^$important
 ||yahoo.com^$important
+||tiktok.com^$important
 
 ! http://nyheder.tv2.dk/?portal
 nyheder.tv2.dk##.t-bgcolor_darkgray.tv2-c.c-cookiebar
